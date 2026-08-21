@@ -37,6 +37,9 @@
   <img src="docs/screenshots/results-en-dark.png" alt="Extraction results - Dark mode" width="45%"/>
   <img src="docs/screenshots/empty-fa-dark.png" alt="صفحه شروع - تم تاریک" width="45%"/>
 </p>
+<p align="center">
+  <img src="docs/screenshots/empty-en-light.png" alt="Empty state - English, light mode" width="90%"/>
+</p>
 
 پشتیبانی کامل از تم روشن/تاریک و دو زبان فارسی و انگلیسی.
 
@@ -144,6 +147,10 @@ npm run dist:win
 - [ ] پشتیبانی از macOS و Linux (ساختار build از قبل آماده‌ست)
 - [ ] خروجی پالت به فرمت‌های اضافه (RGB, HSL, CSS Variables)
 - [ ] ذخیره‌ی تاریخچه‌ی پالت‌های استخراج‌شده
+
+## 📄 لایسنس
+
+این پروژه تحت لایسنس MIT منتشر شده. جزئیات در فایل [LICENSE](LICENSE).
 
 ## 👤 سازنده
 
